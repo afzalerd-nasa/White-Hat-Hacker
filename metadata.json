@@ -1,0 +1,6 @@
+{
+  "name": "AegisSec – Ethical Cybersecurity & PenTesting Suite",
+  "description": "Professional white-hat cybersecurity platform for authorized network scanning, vulnerability assessment, website security auditing, network monitoring, and interactive ethical hacking practice labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
